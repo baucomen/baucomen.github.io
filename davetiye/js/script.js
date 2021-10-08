@@ -34,7 +34,7 @@ var x = setInterval(function() {
     // If the count down is over, write some text 
     if (distance < 0) {
         clearInterval(x);
-        document.getElementById("time").innerHTML = "Mutluluklar!!";
+        document.getElementById("time").innerHTML = "Evlendik, Mutluyuz!!";
     }
 }, 1000);
 
