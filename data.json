@@ -1,1 +1,7 @@
-[{time: "10:00", value: 50}, {time: "11:00", value: 51}, {time: "12:00", value: 52}, {time: "13:00", value: 53}, {time: "14:00", value: 55}, {time: "15:00", value: 49}]
+[
+  {"time": "10:00:01", "value": 150},
+  {"time": "10:00:02", "value": 230},
+  {"time": "10:00:03", "value": 224},
+  {"time": "10:00:04", "value": 218},
+  {"time": "10:00:05", "value": 135}
+]
